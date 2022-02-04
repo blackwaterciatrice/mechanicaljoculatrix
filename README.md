@@ -13,3 +13,5 @@ Then you'll want to go to the Bot tab on Discord's dev page, get the token, save
 
 Stuff I learned doing this: 
 Everything? I mean, I had done some Python work before, I know something about servers and networking, I'd used Spotify's API a few times, but I am now working with multiple different APIs. Really see the value of having shared libraries, too; this project pulls from 5 different python libraries, which VASTLY reduces the difficulty. Imagine if I had to code my own random number function just to pick either 0 or 1 each time you asked the bot to tell you a joke. 
+
+This is my first github upload! Thanks for reading, whowever you are! Cheers! 
