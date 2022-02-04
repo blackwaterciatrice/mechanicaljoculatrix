@@ -1,2 +1,5 @@
 # mechanicaljoculatrix
 This is a discord bot that runs in a cloud server, using occasional pings from a third-party service to keep the server active; while active, the bot will make a few off-color comments and, when asked to tell you a joke, will either tell you a joke (pulled from an API) or quote you the current price of bitcoin in USD (pulled from an API). 
+It's based off the bot here: https://www.freecodecamp.org/news/create-a-discord-bot-with-python/
+The bot runs in the Replit environment, and hosts its own mini server which sends a little "hello world!" when connected. Replit usually shuts down programs when you close the tab, and shuts down development servers after an hour of inactivity. I set up an account at uptimerobot.com, which lets you monitor 50 different websites for free, and their service pings the bot's mini server every 40 minutes or so, causing it to reply, keeping it from becoming inactive.
+I'm pretty sure that has some minor net negative carbon footprints, so uh, I hope this doesn't become viral; it was supposed to be just a fun project. Took me about 3 hours. 
